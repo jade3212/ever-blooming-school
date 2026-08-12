@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/admissions": {},
+    "/api/admissions/upload": {},
+    "/api/auth/admin-login": {},
+    "/api/health": {}
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/admissions/page": "/admin/admissions",
+  "/admin/login/page": "/admin/login",
+  "/api/admin/admissions/route": "/api/admin/admissions",
+  "/api/admissions/route": "/api/admissions",
+  "/api/admissions/upload/route": "/api/admissions/upload",
+  "/api/auth/admin-login/route": "/api/auth/admin-login",
+  "/api/auth/admin-logout/route": "/api/auth/admin-logout",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/health/route": "/api/health",
+  "/api/payments/route": "/api/payments",
+  "/api/students/route": "/api/students",
+  "/gallery/page": "/gallery",
+  "/page": "/"
+}

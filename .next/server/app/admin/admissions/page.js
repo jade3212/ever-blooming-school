@@ -1,0 +1,13 @@
+var R=require("../../../chunks/ssr/[turbopack]_runtime.js")("server/app/admin/admissions/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0wjas0a._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_esm_build_templates_app-page_0s5e9un.js")
+R.c("server/chunks/ssr/[root-of-the-server]__12dpsfs._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_0-g.jog._.js")
+R.c("server/chunks/ssr/src_app_layout_tsx_0fhx__n._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_0inhx6q._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_forbidden_0ghu-f7.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_unauthorized_0cjv-23.js")
+R.c("server/chunks/ssr/node_modules_next_dist_client_components_builtin_global-error_0lgvd_..js")
+R.c("server/chunks/ssr/_next-internal_server_app_admin_admissions_page_actions_0~97v9e.js")
+R.m(60778)
+module.exports=R.m(60778).exports
